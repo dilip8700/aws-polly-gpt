@@ -16,7 +16,7 @@ To start using VoiceBot, simply [visit our website](link_to_project_website) or 
 
 ## Support
 
-For questions or assistance, please contact us at [support@voicebot.com](mailto:support@voicebot.com).
+For questions or assistance, please contact us at [support@voicebot.com](mailto:dilipjarwal90@gmail.com).
 
 ## License
 
